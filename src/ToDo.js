@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './ToDo.css';
 import ToDoItem from './components/ToDoItem';
-import Logo from './assets/logo.png';
+import Logo from './assets/logo.svg';
 
 class ToDo extends Component {
     constructor(props) {
